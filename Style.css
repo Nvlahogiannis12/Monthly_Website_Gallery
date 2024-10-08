@@ -1,0 +1,33 @@
+/* 
+body {
+   background-image: url(https://c4.wallpaperflare.com/wallpaper/228/994/498/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg);
+    background-size:cover;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-attachment:fixed; ;
+}
+        */
+p.intro {
+    color:aliceblue;
+}
+h1 {
+    color:aliceblue;
+}
+
+.name {
+    background-color: dodgerblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.uno {
+background-color: deepskyblue !important;
+}
+
+.due {
+    background-color: deepskyblue !important;
+}
+
+.tre {
+    background-color: deepskyblue !important;
+}
