@@ -31,3 +31,7 @@ background-color: deepskyblue !important;
 .tre {
     background-color: deepskyblue !important;
 }
+
+.card {
+    border-radius: 5px;
+}
