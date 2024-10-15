@@ -18,6 +18,7 @@ h1 {
     background-color: dodgerblue;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-top:50px;
 }
 
 .uno {
@@ -34,4 +35,12 @@ background-color: deepskyblue !important;
 
 .card {
     border-radius: 5px;
+}
+
+.card-button:hover {
+    background-color: darkblue;
+}
+.drop:hover{
+    background-color: darkslategray;
+    color:white;
 }
