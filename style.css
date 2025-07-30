@@ -1,12 +1,7 @@
-/* 
-body {
-   background-image: url(https://c4.wallpaperflare.com/wallpaper/228/994/498/3-316-16-9-aspect-ratio-s-sfw-wallpaper-preview.jpg);
-    background-size:cover;
-    background-position:center center;
-    background-repeat:no-repeat;
-    background-attachment:fixed; ;
+body{
+    width:100%;
+    height:100%;
 }
-        */
 p.intro {
     color:aliceblue;
 }
