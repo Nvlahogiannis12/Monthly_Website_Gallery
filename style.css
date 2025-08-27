@@ -12,8 +12,7 @@ h1 {
 .name {
     background-color: dodgerblue;
     background-repeat: no-repeat;
-    background-size: cover;
-    margin-top:50px;
+    margin-top:75px;
 }
 
 .uno {
@@ -38,4 +37,7 @@ background-color: deepskyblue !important;
 .drop:hover{
     background-color: darkslategray;
     color:white;
+}
+#rosterGrid{
+    margin-top:20px;
 }
